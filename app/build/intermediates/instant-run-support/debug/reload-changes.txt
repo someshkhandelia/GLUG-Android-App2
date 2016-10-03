@@ -1,0 +1,7 @@
+CHANGED,C:\my files\AndroidStudioProjects\ViewPagerTester\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\somesh1995\viewpagertester\AboutUsActivity$ScreenSlidePagerAdapter$override.class
+CHANGED,C:\my files\AndroidStudioProjects\ViewPagerTester\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\somesh1995\viewpagertester\MuktiActivity$ScreenSlidePagerAdapter$override.class
+CHANGED,C:\my files\AndroidStudioProjects\ViewPagerTester\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\somesh1995\viewpagertester\AboutUsActivity$override.class
+CHANGED,C:\my files\AndroidStudioProjects\ViewPagerTester\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\somesh1995\viewpagertester\WorkshopActivity$ScreenSlidePagerAdapter$override.class
+CHANGED,C:\my files\AndroidStudioProjects\ViewPagerTester\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\somesh1995\viewpagertester\MuktiActivity$override.class
+CHANGED,C:\my files\AndroidStudioProjects\ViewPagerTester\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\somesh1995\viewpagertester\WorkshopActivity$override.class
+CHANGED,C:\my files\AndroidStudioProjects\ViewPagerTester\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

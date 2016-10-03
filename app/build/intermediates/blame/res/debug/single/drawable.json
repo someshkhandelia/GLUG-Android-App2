@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tuxwelcome.png",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\tuxwelcome.png"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\muktiicon.png",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\muktiicon.png"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tuxwelcome4.png",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\tuxwelcome4.png"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\webdev.jpg",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\webdev.jpg"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\activities.jpg",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\activities.jpg"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mukti.jpg",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\mukti.jpg"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grey.jpg",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\grey.jpg"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contactsicon.png",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\contactsicon.png"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tuxwelcome3.png",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\tuxwelcome3.png"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\androidicon2.png",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\androidicon2.png"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hackmeicon.png",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\hackmeicon.png"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\webdevicon.png",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\webdevicon.png"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grey4.jpg",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\grey4.jpg"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\androidicon.png",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\androidicon.png"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\homeicon.png",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\homeicon.png"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hackme.jpg",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\hackme.jpg"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\webdevicon2.png",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\webdevicon2.png"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tux.png",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\tux.png"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linux.png",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\linux.png"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hackmeicon2.png",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\hackmeicon2.png"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hackmeicon3.png",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\hackmeicon3.png"
+    },
+    {
+        "merged": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tuxwelcome2.png",
+        "source": "C:\\my files\\AndroidStudioProjects\\ViewPagerTester\\app\\src\\main\\res\\drawable\\tuxwelcome2.png"
+    }
+]
